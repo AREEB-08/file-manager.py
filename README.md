@@ -69,6 +69,34 @@ Downloads/
 ├── 📁 pptx/
 │   └── slides.pptx
 ```
+## ✨ Features
+✅ *Automatically organizes files* based on extensions.  
+✅ *Creates new folders* if they don’t exist.  
+✅ *Skips directories* to avoid errors.  
+✅ *Moves files efficiently* using shutil.  
+✅ *Provides user-friendly error handling*.  
+
+---
+
+## ⚠ Error Handling
+🚨 *If the entered path is invalid*, an error message will be displayed.  
+🚨 *If the folder is empty*, no action will be taken.  
+🚨 *If permissions are restricted*, the script may not be able to move files.  
+
+---
+
+## 🌍 Contributing
+Want to improve this script? Feel free to *fork this repository* and enhance it with additional features like:
+- 🖥 *GUI interface* for easier usage.
+- 📅 *Sorting files by creation date*.
+- 🏷 *Custom folder naming options*.
+
+---
+
+## 📜 License
+This project is *open-source* and free to use for personal and commercial purposes.
+
+🚀 *Happy Organizing!* 🎉
 
 ---
 
